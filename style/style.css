@@ -1,0 +1,106 @@
+body{
+	
+	background-image: url(../images/tweed.png);
+
+}
+
+#content{
+	width:850px;
+	height:700px;
+	/*background:yellow;*/
+	margin: auto;
+
+}
+
+#content h1{
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+#content #p1{
+	height: 140px;
+	width: 650px;
+	background-color: #9168b3;
+	float: left;
+	margin-bottom: 20px;
+}
+#content #p1 img{
+		width: 100px;
+		height: 100px;
+		padding-left: 50px;
+		padding-top: 10px;
+		padding-right: 10px;
+		float: left;
+	}
+
+#content #p1 p{
+	padding-top: 15px;
+}
+
+
+#content #p2{
+	height: 140px;
+	width: 650px;
+	background-color: #a8b368;
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+#content #p2 img{
+		width: 100px;
+		height: 100px;
+		padding-left: 10px;
+		padding-top: 10px;
+		padding-right: 40px;
+		float: right;
+	}
+
+#content #p2 p{
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+
+#content #p3{
+	height: 140px;
+	width: 650px;
+	background-color: #b36e68;
+	float: left;
+	margin-bottom: 20px;
+}
+#content #p3 img{
+		width: 100px;
+		height: 100px;
+		padding-left: 50px;
+		padding-top: 10px;
+		padding-right: 10px;
+		float: left;
+	}
+
+#content #p3 p{
+	padding-top: 15px;
+}
+
+
+#content #p4{
+	height: 140px;
+	width: 650px;
+	background-color: #636363;
+	float: right;
+	margin-left: 10px;
+}
+#content #p4 img{
+		width: 100px;
+		height: 100px;
+		padding-left: 10px;
+		padding-top: 10px;
+		padding-right: 40px;
+		float: right;
+	}
+
+#content #p4 p{
+	padding-top: 15px;
+	padding-left: 10px;
+}
